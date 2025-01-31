@@ -10,9 +10,5 @@ LimaCharlie provides several pre-baked lookups from various 3rd parties. Below a
     * https://storage.googleapis.com/lc-lookups-bucket/alienvault-ip-reputation.json
 * Tor node list
     * https://storage.googleapis.com/lc-lookups-bucket/tor-ips.json
-* Talos IP Blacklist
-    * https://storage.googleapis.com/lc-lookups-bucket/talos-ip-blacklist.json
-* CoinBlocker - Cryptojacking and cryptominers related domains and IPs
-    * https://storage.googleapis.com/lc-lookups-bucket/coinblocker.json
 * Feodo - Botnet C2 Indicators Of Compromise (IOCs)
     * https://storage.googleapis.com/lc-lookups-bucket/feodo-ips.json
